@@ -1,0 +1,6 @@
+.statList{
+    list-style: none;
+}
+.statItem{
+    text-transform: capitalize;
+}
